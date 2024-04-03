@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         int account = 500;
-        int payment = 1200;
+        int payment = 1300;
         int bonus = (payment / 100);
 
 
@@ -16,14 +16,10 @@ public class Main {
             System.out.println("На вашем счету: " + total + " руб.");
         }
 
-
-        //System.out.println("На вашем счету: " + total + " руб.");
     }
-    //if (payment >=1000) {
-    //int total = (total + bonus);
 }
 
-        //if (payment >= 1000) {
+
 
 
 
